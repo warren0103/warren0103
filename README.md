@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @warren0103
+- 👋 Hi, I’m warren chilambe
 - 👀 I’m interested in nodejs react/nextjs machine learning in both python and javascript 
 - 🌱 I’m currently learning nodejs, react/nextjs machine learning
 - 💞️ I’m looking to collaborate on creating a trending algorithm in javascript
